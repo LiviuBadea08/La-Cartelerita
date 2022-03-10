@@ -1,3 +1,11 @@
+body {
+  background-color: rgba(125, 141, 145, 0.55);
+}
+
+.card-title {
+  color: rgba(203, 255, 252, 1);
+}
+
 * {
-  background-color: rgb(35, 184, 134);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }

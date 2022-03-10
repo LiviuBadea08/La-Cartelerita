@@ -1,0 +1,74 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "El Gran Lebowski",
+      "director": "Los hermanos Coen",
+      "clasificacion": "Comedia",
+      "imgUrl": "https://elcriticoabulico.files.wordpress.com/2013/02/el-gran-lebowski.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Accion",
+      "imgUrl": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Memento",
+      "director": "Christopher Nolan",
+      "clasificacion": "Misterio",
+      "imgUrl": "https://pics.filmaffinity.com/memento-230609861-large.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Frozen",
+      "director": "Chris Buck, Jennifer Lee",
+      "clasificacion": "Animacion",
+      "imgUrl": "https://pics.filmaffinity.com/frozen-680009505-large.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Warcraft: The Beginning",
+      "director": "Duncan Jones",
+      "clasificacion": "Fantasia",
+      "imgUrl": "https://pics.filmaffinity.com/warcraft_the_beginning-333696701-large.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "imgUrl": "https://m.media-amazon.com/images/I/41BICQtlYhL._AC_.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Los santos inocentes",
+      "director": "Mario Camus",
+      "clasificacion": "Drama Social",
+      "imgUrl": "https://pics.filmaffinity.com/los_santos_inocentes-214778316-large.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Interstellar",
+      "director": "Hans Zimmer",
+      "clasificacion": "Ciencia Ficcion",
+      "imgUrl": "https://pics.filmaffinity.com/interstellar-366875261-large.jpg"
+    },
+    {
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 9,
+      "imgUrl": "https://m.media-amazon.com/images/I/41JZwO-jv9L._AC_.jpg"
+    },
+    {
+      "nombre": "El protegido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 10,
+      "imgUrl": "https://m.media-amazon.com/images/I/71ah9DKC3oL._SL1265_.jpg"
+    }
+  ]
+}
